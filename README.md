@@ -6,7 +6,7 @@
 ### 👋 Hi, I'm Hendro 
 
 🚀 Cyber Security Engineer | Red Teamer | CTF Player  
-📚 Certified: CEH | CND | ECIH | CSA | CCT | EJPT | eWPTXv2 | CRTA | CRTP
+📚 Certified: CEH | CND | ECIH | CSA | CCT | eJPT | eWPTXv2 | CRTA | CRTP
 
 ---
 
